@@ -1,0 +1,61 @@
+{
+    "definition": {
+        "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+        "actions": {
+            "HTTP": {
+                "inputs": {
+                    "authentication": {
+                        "audience": "https://*.asazure.chinacloudapi.cn",
+                        "clientId": "<AAD clientId>",
+                        "secret": "<AAD secret>",
+                        "tenant": "<AAD tenant>",
+                        "type": "ActiveDirectoryOAuth"
+                    },
+                    "body": {
+                        "CommitMode": "transactional",
+                        "MaxParallelism": 2,
+                        "Objects": [
+                            {
+                                "table": "customer"
+                            },
+                            {
+                                "table": "customer_address"
+                            },
+                            {
+                                "table": "customer_demographics"
+                            },
+                            {
+                                "table": "data_dim"
+                            },
+                            {
+                                "table": "household_demographice"
+                            }
+                        ],
+                        "RetryCount": 2,
+                        "Type": "Full"
+                    },
+                    "headers": {
+                        "Content-Type": "application/json"
+                    },
+                    "method": "POST",
+                    "uri": "https://chinaeast2.asazure.chinacloudapi.cn/servers/hblanalysisservices/models/HerbalifeAAS/refreshes"
+                },
+                "runAfter": {},
+                "type": "Http"
+            }
+        },
+        "contentVersion": "1.0.0.0",
+        "outputs": {},
+        "parameters": {},
+        "triggers": {
+            "manual": {
+                "inputs": {
+                    "schema": {}
+                },
+                "kind": "Http",
+                "type": "Request"
+            }
+        }
+    },
+    "parameters": {}
+}
