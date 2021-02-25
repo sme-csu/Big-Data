@@ -1,4 +1,4 @@
-# Big Data Project Assets
+# SME-CSU Team Big Data Learning Resources
 
 ## 1 AI & Car Networking
 
