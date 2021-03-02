@@ -1,3 +1,5 @@
+[English](./README.md) | 简体中文
+
 # 大数据
 
 ## 1 SME-CSU大数据学习资源
