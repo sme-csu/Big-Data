@@ -1,5 +1,11 @@
 [English](./README.md) | 简体中文
 
+<p align="center">
+  <a href="https://github.com/sme-csu"><img src="https://badgen.net/badge/downloads/0/green?icon=github" alt="Downloads"></a>
+  <a href="https://gitter.im/SME-CSU-Team/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"><img src="https://badges.gitter.im/SME-CSU-Team/community.svg" alt="Gitter" /></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license" /></a>
+
+
 # 大数据
 
 ## 1 SME-CSU大数据学习资源
