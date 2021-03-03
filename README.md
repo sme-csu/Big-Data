@@ -39,10 +39,11 @@ Project Asset is the knowledge library of representative project experience in c
 
 - You need to understand the tools to use, how best to analyse the stream of data captured by the sensors, then transmitted to Databricks Delta Lake and Power BI.
 
-  https://github.com/sme-csu/POC-clobotics-demo
+  https://github.com/sme-csu/POC-Databricks-demo
 
-### 2.2 POC-Data Factory-demo
+### 2.2 POC-Data-Factory-demo
 
 - This demo requires several technologies that work together, including Data Factory, databricks and logicApp.
 
-  https://github.com/sme-csu/Security-Compliance
+  https://github.com/sme-csu/POC-Data-Factory-demo
+
