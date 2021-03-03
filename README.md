@@ -35,13 +35,13 @@ Big data analytics and AI with optimised Apache Spark. Unlock insights from all 
 
 Project Asset is the knowledge library of representative project experience in corresponding technical field. You can find reference and guidance here for different types of technical requirement. Each folder listed is collected from one project.
 
-### 2.1 POC-clobotics-demo
+### 2.1 POC-Databricks-demo
 
 - You need to understand the tools to use, how best to analyse the stream of data captured by the sensors, then transmitted to Databricks Delta Lake and Power BI.
 
   https://github.com/sme-csu/POC-clobotics-demo
 
-### 2.2 POC-herbalife-demo
+### 2.2 POC-Data Factory-demo
 
 - This demo requires several technologies that work together, including Data Factory, databricks and logicApp.
 
