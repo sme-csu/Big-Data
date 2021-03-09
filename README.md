@@ -32,7 +32,7 @@ Big data analytics and AI with optimised Apache Spark. Unlock insights from all 
 
 - SME Sharing PowerPoint: 
 
- https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EdNV6VZYfBpBsknqyoBdzhQBEDScbBSPsUiepVshii8LDQ?e=mj3b1M
+  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EdNV6VZYfBpBsknqyoBdzhQBEDScbBSPsUiepVshii8LDQ?e=mj3b1M
 
 ## 2 SME-CSU Team Big-Data Project Assets
 
