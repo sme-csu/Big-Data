@@ -34,8 +34,7 @@ Big data analytics and AI with optimised Apache Spark. Unlock insights from all 
 
 - SME Sharing Recording: 
   
-https://msit.microsoftstream.com/video/9936a4ff-0400-9887-972b-f1eb6215d194
-  
+  https://msit.microsoftstream.com/video/9936a4ff-0400-9887-972b-f1eb6215d194?referrer=https:%2F%2Fmicrosoftapc.sharepoint.com%2F
 - SME Sharing PowerPoint: 
 
   https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EdNV6VZYfBpBsknqyoBdzhQBEDScbBSPsUiepVshii8LDQ?e=mj3b1M
