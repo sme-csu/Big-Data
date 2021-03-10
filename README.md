@@ -33,10 +33,9 @@ Azure Synapse Analytics is a limitless analytics service that brings together da
 Big data analytics and AI with optimised Apache Spark. Unlock insights from all your data and build artificial intelligence (AI) solutions with Azure Databricks, set up your Apache Spark™ environment in minutes, auto-scale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch and scikit-learn.
 
 - SME Sharing Recording: 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Jan.29%20Data%20analytics%20%2526%20machine%20learning%20with%20Databricks/Recording.url
-
-  **链接报错：This site can’t be reached**
-
+  
+https://msit.microsoftstream.com/video/9936a4ff-0400-9887-972b-f1eb6215d194
+  
 - SME Sharing PowerPoint: 
 
   https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EdNV6VZYfBpBsknqyoBdzhQBEDScbBSPsUiepVshii8LDQ?e=mj3b1M
