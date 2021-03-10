@@ -19,9 +19,14 @@ Azure Synapse Analytics is a limitless analytics service that brings together da
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Oct.23%20Building%20Your%20Modern%20Data%20Warehouse%20using%20Azure%20Synapse/Recording.url
 
+  https://msit.microsoftstream.com/video/fad9a3ff-0400-9fb2-ce2f-f1eb151304b5
+
+  **链接报错：Hmm ... it seems you don't have access.**
+
 - SME Sharing PowerPoint: 
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Oct.23%20Building%20Your%20Modern%20Data%20Warehouse%20using%20Azure%20Synapse/CosmosSynapse-CSU-Share.pdf.url
+  
 
 ### 1.2 Data analytics & machine learning with spark/databricks
 
@@ -30,9 +35,12 @@ Big data analytics and AI with optimised Apache Spark. Unlock insights from all 
 - SME Sharing Recording: 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Jan.29%20Data%20analytics%20%2526%20machine%20learning%20with%20Databricks/Recording.url
 
+  **链接报错：This site can’t be reached**
+
 - SME Sharing PowerPoint: 
 
   https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EdNV6VZYfBpBsknqyoBdzhQBEDScbBSPsUiepVshii8LDQ?e=mj3b1M
+  
 
 ## 2 SME-CSU Team Big-Data Project Assets
 
