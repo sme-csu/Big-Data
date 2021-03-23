@@ -19,10 +19,6 @@ Azure Synapse Analytics is a limitless analytics service that brings together da
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Oct.23%20Building%20Your%20Modern%20Data%20Warehouse%20using%20Azure%20Synapse/Recording.url
 
-  https://msit.microsoftstream.com/video/fad9a3ff-0400-9fb2-ce2f-f1eb151304b5
-
-  **链接报错：Hmm ... it seems you don't have access.**
-
 - SME Sharing PowerPoint: 
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Oct.23%20Building%20Your%20Modern%20Data%20Warehouse%20using%20Azure%20Synapse/CosmosSynapse-CSU-Share.pdf.url
