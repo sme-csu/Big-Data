@@ -54,3 +54,8 @@ Project Asset is the knowledge library of representative project experience in c
 
   https://github.com/sme-csu/POC-Data-Factory-demo
 
+### 2.3 POC-Azure-BigData-Integration-Solutions
+
+- Databricks, HDInsight, Cloudera integration solutions.
+
+  https://github.com/sme-csu/Azure-BigData-Integration-Solutions
